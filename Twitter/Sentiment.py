@@ -1,7 +1,7 @@
 '''
     This program will show recent sentiment based on Twitter search query.
     Tokens and Keys should be added before runing the program.
-    Copyright (C) 2017  Pritam Pan
+    Copyright (C) 2017 contributed by Pritam Pan
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
